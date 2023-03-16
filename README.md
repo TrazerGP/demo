@@ -2,6 +2,11 @@
 
 This is a simple readme file
 
-## Heading 2
+## Demo explainition 
 
-Das sollte funktionieren
+This is just an Demo from an GitHub Ultiamte Kurs - nothing special will come to this Repository
+
+
+
+
+lol still nice you were here 
