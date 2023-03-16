@@ -1,4 +1,4 @@
-## This is an simple Kubernetes deployment with nginx. Enjoy the ride!
+## This is an simple Kubernetes deployment with nginx. Enjoy the ride! V1.0.1
 
 
 apiVersion: apps/v1
