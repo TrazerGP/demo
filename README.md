@@ -1,8 +1,8 @@
-# Demo Projekt README
+## Demo Projekt README
 
 This is a simple readme file
 
-## Demo explainition 
+# Demo explainition 
 
 This is just an Demo from an GitHub Ultiamte Kurs - nothing special will come to this Repository
 
@@ -10,3 +10,6 @@ This is just an Demo from an GitHub Ultiamte Kurs - nothing special will come to
 
 
 lol still nice you were here --- maybe soon more will be here
+
+
+Hello there now here is more than i guessed before!
